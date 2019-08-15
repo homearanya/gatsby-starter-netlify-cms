@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: homearanya/gatsby-starter-netlify-cms
   branch: master
 
 media_folder: static/img
